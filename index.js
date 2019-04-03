@@ -4,3 +4,6 @@ console.log('111')
 console.log('ok')
 console.log('新增的')
 console.log('dev分支上改的');
+var a = 10;
+var b = 10;
+console.log(a + b);
